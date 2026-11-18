@@ -13,5 +13,5 @@ Sito statico (HTML, CSS, JavaScript vanilla): nessun backend e nessuna dipendenz
 GitHub Pages: *Settings → Pages → Deploy from a branch → main / (root)*.
 
 ## Crediti
-Autori: Lorenzo Crosa e Daniele Urso. Fonti: RFC IETF (9110, 9111, 9112, 9113, 9114, 1034, 1035, 8446, 5321, 3986, 9293, 768, 6265, 7208, 6376, 7489 e altri elencati nel sito) e MDN Web Docs.
-Strumenti: HTML5, CSS3, JavaScript (ES6+), Canvas API, Web Audio API; contenuti e codice generati con assistenti IA e verificati dal gruppo (vedi registro dei prompt e relazione di verifica).
+Autori: Lorenzo Crosa e Daniele Urso.
+Strumenti: HTML5, CSS3, JavaScript (ES6+), Canvas API, Web Audio API; codici generati con assistenti IA e verificati dal gruppo (vedi registro dei prompt e relazione di verifica).
